@@ -1,8 +1,8 @@
 ## Hi i'm Anas Gamil 👋
 
-- 🔭  Automation software tester/>
-- 🌱 I’m currently learning Machine Learning/>
-- 💬 I create AI Agents/>
+- 🔭  Automation software tester
+- 🌱 I’m currently learning Machine Learning
+- 💬 I create AI Agents
 - 📫 How to reach me: https://www.linkedin.com/in/anas-gamil-1454581ab/
 
 
